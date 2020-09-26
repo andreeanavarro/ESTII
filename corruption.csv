@@ -1,0 +1,181 @@
+"Country","Region","Score"
+"Denmark","WE/EU",87
+"New Zealand","AP",87
+"Finland","WE/EU",86
+"Singapore","AP",85
+"Sweden","WE/EU",85
+"Switzerland","WE/EU",85
+"Norway","WE/EU",84
+"Netherlands","WE/EU",82
+"Germany","WE/EU",80
+"Luxembourg","WE/EU",80
+"Iceland","WE/EU",78
+"Australia","AP",77
+"Austria","WE/EU",77
+"Canada","AME",77
+"United Kingdom","WE/EU",77
+"Hong Kong","AP",76
+"Belgium","WE/EU",75
+"Estonia","WE/EU",74
+"Ireland","WE/EU",74
+"Japan","AP",73
+"United Arab Emirates","MENA",71
+"Uruguay","AME",71
+"France","WE/EU",69
+"United States of America","AME",69
+"Bhutan","AP",68
+"Chile","AME",67
+"Seychelles","SSA",66
+"Taiwan","AP",65
+"Bahamas","AME",64
+"Barbados","AME",62
+"Portugal","WE/EU",62
+"Qatar","MENA",62
+"Spain","WE/EU",62
+"Botswana","SSA",61
+"Brunei Darussalam","AP",60
+"Israel","MENA",60
+"Lithuania","WE/EU",60
+"Slovenia","WE/EU",60
+"Korea, South","AP",59
+"Saint Vincent and the Grenadines","AME",59
+"Cabo Verde","SSA",58
+"Cyprus","WE/EU",58
+"Poland","WE/EU",58
+"Costa Rica","AME",56
+"Czech Republic","WE/EU",56
+"Georgia","ECA",56
+"Latvia","WE/EU",56
+"Dominica","AME",55
+"Saint Lucia","AME",55
+"Malta","WE/EU",54
+"Grenada","AME",53
+"Italy","WE/EU",53
+"Malaysia","AP",53
+"Rwanda","SSA",53
+"Saudi Arabia","MENA",53
+"Mauritius","SSA",52
+"Namibia","SSA",52
+"Oman","MENA",52
+"Slovakia","WE/EU",50
+"Cuba","AME",48
+"Greece","WE/EU",48
+"Jordan","MENA",48
+"Croatia","WE/EU",47
+"Sao Tome and Principe","SSA",46
+"Vanuatu","AP",46
+"Argentina","AME",45
+"Belarus","ECA",45
+"Montenegro","ECA",45
+"Senegal","SSA",45
+"Hungary","WE/EU",44
+"Romania","WE/EU",44
+"South Africa","SSA",44
+"Suriname","AME",44
+"Bulgaria","WE/EU",43
+"Jamaica","AME",43
+"Tunisia","MENA",43
+"Armenia","ECA",42
+"Bahrain","MENA",42
+"Solomon Islands","AP",42
+"Benin","SSA",41
+"China","AP",41
+"Ghana","SSA",41
+"India","AP",41
+"Morocco","MENA",41
+"Burkina Faso","SSA",40
+"Guyana","AME",40
+"Indonesia","AP",40
+"Kuwait","MENA",40
+"Lesotho","SSA",40
+"Trinidad and Tobago","AME",40
+"Serbia","ECA",39
+"Turkey","ECA",39
+"Ecuador","AME",38
+"Sri Lanka","AP",38
+"Timor-Leste","AP",38
+"Colombia","AME",37
+"Ethiopia","SSA",37
+"Gambia","SSA",37
+"Tanzania","SSA",37
+"Vietnam","AP",37
+"Bosnia and Herzegovina","ECA",36
+"Kosovo","ECA",36
+"Panama","AME",36
+"Peru","AME",36
+"Thailand","AP",36
+"Albania","ECA",35
+"Algeria","MENA",35
+"Brazil","AME",35
+"Cote d'Ivoire","SSA",35
+"Egypt","MENA",35
+"North Macedonia","ECA",35
+"Mongolia","AP",35
+"El Salvador","AME",34
+"Kazakhstan","ECA",34
+"Nepal","AP",34
+"Philippines","AP",34
+"Eswatini","SSA",34
+"Zambia","SSA",34
+"Sierra Leone","SSA",33
+"Moldova","ECA",32
+"Niger","SSA",32
+"Pakistan","AP",32
+"Bolivia","AME",31
+"Gabon","SSA",31
+"Malawi","SSA",31
+"Azerbaijan","ECA",30
+"Djibouti","SSA",30
+"Kyrgyzstan","ECA",30
+"Ukraine","ECA",30
+"Guinea","SSA",29
+"Laos","AP",29
+"Maldives","AP",29
+"Mali","SSA",29
+"Mexico","AME",29
+"Myanmar","AP",29
+"Togo","SSA",29
+"Dominican Republic","AME",28
+"Kenya","SSA",28
+"Lebanon","MENA",28
+"Liberia","SSA",28
+"Mauritania","SSA",28
+"Papua New Guinea","AP",28
+"Paraguay","AME",28
+"Russia","ECA",28
+"Uganda","SSA",28
+"Angola","SSA",26
+"Bangladesh","AP",26
+"Guatemala","AME",26
+"Honduras","AME",26
+"Iran","MENA",26
+"Mozambique","SSA",26
+"Nigeria","SSA",26
+"Cameroon","SSA",25
+"Central African Republic","SSA",25
+"Comoros","SSA",25
+"Tajikistan","ECA",25
+"Uzbekistan","ECA",25
+"Madagascar","SSA",24
+"Zimbabwe","SSA",24
+"Eritrea","SSA",23
+"Nicaragua","AME",22
+"Cambodia","AP",20
+"Chad","SSA",20
+"Iraq","MENA",20
+"Burundi","SSA",19
+"Congo","SSA",19
+"Turkmenistan","ECA",19
+"Democratic Republic of the Congo","SSA",18
+"Guinea Bissau","SSA",18
+"Haiti","AME",18
+"Libya","MENA",18
+"Korea, North","AP",17
+"Afghanistan","AP",16
+"Equatorial Guinea","SSA",16
+"Sudan","SSA",16
+"Venezuela","AME",16
+"Yemen","MENA",15
+"Syria","MENA",13
+"South Sudan","SSA",12
+"Somalia","SSA",9
