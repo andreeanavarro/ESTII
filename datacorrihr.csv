@@ -1,0 +1,159 @@
+"country","cpi","score"
+"Afghanistan",16,33
+"Albania",35,40
+"Algeria",35,53
+"Angola",26,73
+"Argentina",45,27
+"Armenia",42,73
+"Australia",77,100
+"Austria",77,47
+"Azerbaijan",30,73
+"Bahamas",64,73
+"Bahrain",42,93
+"Bangladesh",26,53
+"Belgium",75,87
+"Benin",41,27
+"Bhutan",68,53
+"Bosnia and Herzegovina",36,27
+"Botswana",61,20
+"Brazil",35,73
+"Bulgaria",43,80
+"Burkina Faso",40,33
+"Burundi",19,30
+"Cabo Verde",58,40
+"Cambodia",20,33
+"Cameroon",25,33
+"Canada",77,100
+"Central African Republic",25,20
+"Chad",20,27
+"Chile",67,73
+"China",41,80
+"Colombia",37,67
+"Comoros",25,33
+"Congo",19,20
+"Costa Rica",56,67
+"Cote d'Ivoire",35,33
+"Croatia",47,53
+"Cuba",48,100
+"Cyprus",58,87
+"Czech Republic",56,67
+"Democratic Republic of the Congo",18,33
+"Denmark",87,100
+"Djibouti",30,20
+"Dominica",55,80
+"Dominican Republic",28,67
+"Ecuador",38,87
+"Egypt",35,100
+"El Salvador",34,100
+"Equatorial Guinea",16,20
+"Eritrea",23,20
+"Estonia",74,73
+"Eswatini",34,27
+"Ethiopia",37,73
+"Finland",86,93
+"France",69,73
+"Gabon",31,20
+"Gambia",37,47
+"Georgia",56,60
+"Germany",80,87
+"Ghana",41,33
+"Greece",48,60
+"Guatemala",26,73
+"Guinea",29,47
+"Guyana",40,67
+"Honduras",26,67
+"Hungary",44,53
+"Iceland",78,87
+"India",41,80
+"Indonesia",40,67
+"Iraq",20,87
+"Ireland",74,73
+"Israel",60,100
+"Italy",53,93
+"Jamaica",43,80
+"Japan",73,100
+"Jordan",48,40
+"Kazakhstan",34,87
+"Kenya",28,33
+"Kuwait",40,73
+"Kyrgyzstan",30,60
+"Latvia",56,87
+"Lebanon",28,60
+"Lesotho",40,20
+"Liberia",28,47
+"Libya",18,20
+"Lithuania",60,93
+"Luxembourg",80,93
+"Madagascar",24,27
+"Malawi",31,27
+"Maldives",29,60
+"Mali",29,53
+"Malta",54,20
+"Mauritania",28,27
+"Mauritius",52,67
+"Mexico",29,87
+"Mongolia",35,80
+"Montenegro",45,60
+"Morocco",41,80
+"Mozambique",26,67
+"Myanmar",29,47
+"Namibia",52,33
+"Nepal",34,47
+"Netherlands",82,93
+"New Zealand",87,100
+"Nicaragua",22,93
+"Niger",32,27
+"Nigeria",26,47
+"North Macedonia",35,53
+"Norway",84,100
+"Oman",52,80
+"Pakistan",32,47
+"Panama",36,80
+"Papua New Guinea",28,40
+"Paraguay",28,47
+"Peru",36,67
+"Philippines",34,53
+"Poland",58,80
+"Portugal",62,80
+"Qatar",62,100
+"Romania",44,67
+"Rwanda",53,47
+"Saint Lucia",55,80
+"Saint Vincent and the Grenadines",59,67
+"Sao Tome and Principe",46,40
+"Saudi Arabia",53,80
+"Senegal",45,53
+"Serbia",39,80
+"Seychelles",66,27
+"Sierra Leone",33,67
+"Singapore",85,80
+"Slovakia",50,87
+"Slovenia",60,87
+"South Africa",44,73
+"South Sudan",12,40
+"Spain",62,93
+"Sri Lanka",38,33
+"Sudan",16,40
+"Suriname",44,53
+"Sweden",85,80
+"Switzerland",85,100
+"Tajikistan",25,73
+"Thailand",36,80
+"Timor-Leste",38,40
+"Togo",29,40
+"Trinidad and Tobago",40,60
+"Tunisia",43,73
+"Turkey",39,60
+"Turkmenistan",19,73
+"Uganda",28,80
+"Ukraine",30,60
+"United Arab Emirates",71,100
+"United Kingdom",77,100
+"United States of America",69,100
+"Uruguay",71,93
+"Uzbekistan",25,67
+"Venezuela",16,53
+"Vietnam",37,60
+"Yemen",15,60
+"Zambia",34,67
+"Zimbabwe",24,27
