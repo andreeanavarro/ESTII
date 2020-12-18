@@ -1,0 +1,181 @@
+"country","cpi","stderror"
+"Denmark",87,2.542474
+"New Zealand",87,2.28649
+"Finland",86,2.924511
+"Singapore",85,2.0484
+"Sweden",85,1.977693
+"Switzerland",85,1.580087
+"Norway",84,1.646693
+"Netherlands",82,2.247029
+"Germany",80,3.30976
+"Luxembourg",80,1.954564
+"Iceland",78,4.627051
+"Australia",77,1.317929
+"Austria",77,1.568815
+"Canada",77,2.796791
+"United Kingdom",77,3.337237
+"Hong Kong",76,3.152059
+"Belgium",75,1.094819
+"Estonia",74,1.209875
+"Ireland",74,3.610982
+"Japan",73,3.510482
+"United Arab Emirates",71,5.126294
+"Uruguay",71,2.472212
+"France",69,2.280289
+"United States of America",69,4.115168
+"Bhutan",68,2.756646
+"Chile",67,2.552611
+"Seychelles",66,3.396858
+"Taiwan",65,3.034662
+"Bahamas",64,5.825616
+"Barbados",62,6.05961
+"Portugal",62,2.819093
+"Qatar",62,7.997069
+"Spain",62,3.166087
+"Botswana",61,3.731927
+"Brunei Darussalam",60,6.118152
+"Israel",60,1.989104
+"Lithuania",60,2.319473
+"Slovenia",60,2.283508
+"Korea, South",59,2.438926
+"Saint Vincent and the Grenadines",59,4.14181
+"Cabo Verde",58,4.298384
+"Cyprus",58,3.413456
+"Poland",58,1.84505
+"Costa Rica",56,3.971018
+"Czech Republic",56,1.868036
+"Georgia",56,3.835593
+"Latvia",56,3.526914
+"Dominica",55,2.164824
+"Saint Lucia",55,4.154687
+"Malta",54,1.551156
+"Grenada",53,4.3738
+"Italy",53,3.215638
+"Malaysia",53,2.292706
+"Rwanda",53,4.754766
+"Saudi Arabia",53,7.561369
+"Mauritius",52,3.12463
+"Namibia",52,3.132607
+"Oman",52,9.778998
+"Slovakia",50,4.570875
+"Cuba",48,1.869706
+"Greece",48,2.56823
+"Jordan",48,3.292418
+"Croatia",47,2.417929
+"Sao Tome and Principe",46,5.363743
+"Vanuatu",46,6.376219
+"Argentina",45,3.288657
+"Belarus",45,4.20046
+"Montenegro",45,4.836292
+"Senegal",45,2.063146
+"Hungary",44,2.577171
+"Romania",44,2.764848
+"South Africa",44,3.442128
+"Suriname",44,4.763029
+"Bulgaria",43,2.768014
+"Jamaica",43,3.583508
+"Tunisia",43,3.941079
+"Armenia",42,4.310598
+"Bahrain",42,7.645793
+"Solomon Islands",42,8.689651
+"Benin",41,2.639245
+"China",41,2.100923
+"Ghana",41,2.756812
+"India",41,1.604926
+"Morocco",41,3.150518
+"Burkina Faso",40,2.542852
+"Guyana",40,3.337288
+"Indonesia",40,3.756684
+"Kuwait",40,1.879429
+"Lesotho",40,3.949422
+"Trinidad and Tobago",40,5.378127
+"Serbia",39,2.484553
+"Turkey",39,3.337019
+"Ecuador",38,2.19252
+"Sri Lanka",38,2.113032
+"Timor-Leste",38,4.49538
+"Colombia",37,2.493945
+"Ethiopia",37,1.516015
+"Gambia",37,5.980328
+"Tanzania",37,1.918592
+"Vietnam",37,2.841134
+"Bosnia and Herzegovina",36,1.952692
+"Kosovo",36,0.8146842
+"Panama",36,1.374419
+"Peru",36,3.065588
+"Thailand",36,2.448041
+"Albania",35,2.507669
+"Algeria",35,2.590262
+"Brazil",35,4.060288
+"Cote d'Ivoire",35,2.488668
+"Egypt",35,4.863433
+"North Macedonia",35,3.56274
+"Mongolia",35,1.887561
+"El Salvador",34,2.563654
+"Kazakhstan",34,4.176606
+"Nepal",34,1.759387
+"Philippines",34,1.585877
+"Eswatini",34,6.075864
+"Zambia",34,1.973667
+"Sierra Leone",33,3.465013
+"Moldova",32,2.395228
+"Niger",32,1.715677
+"Pakistan",32,2.461317
+"Bolivia",31,2.996561
+"Gabon",31,2.407603
+"Malawi",31,1.779217
+"Azerbaijan",30,7.161777
+"Djibouti",30,4.276603
+"Kyrgyzstan",30,2.540632
+"Ukraine",30,2.380559
+"Guinea",29,2.499444
+"Laos",29,4.995874
+"Maldives",29,2.569968
+"Mali",29,2.620483
+"Mexico",29,1.725735
+"Myanmar",29,4.212792
+"Togo",29,2.4049
+"Dominican Republic",28,2.699341
+"Kenya",28,2.167752
+"Lebanon",28,2.271487
+"Liberia",28,2.667331
+"Mauritania",28,2.729102
+"Papua New Guinea",28,2.379799
+"Paraguay",28,2.835402
+"Russia",28,2.476439
+"Uganda",28,2.035011
+"Angola",26,1.821627
+"Bangladesh",26,2.617282
+"Guatemala",26,2.231707
+"Honduras",26,3.254164
+"Iran",26,3.626302
+"Mozambique",26,2.977371
+"Nigeria",26,1.868129
+"Cameroon",25,2.424488
+"Central African Republic",25,1.428002
+"Comoros",25,8.904729
+"Tajikistan",25,6.659976
+"Uzbekistan",25,2.01073
+"Madagascar",24,2.475335
+"Zimbabwe",24,2.307745
+"Eritrea",23,6.657395
+"Nicaragua",22,1.162477
+"Cambodia",20,3.409514
+"Chad",20,2.451336
+"Iraq",20,2.980012
+"Burundi",19,4.894006
+"Congo",19,1.031566
+"Turkmenistan",19,1.417115
+"Democratic Republic of the Congo",18,1.426883
+"Guinea Bissau",18,2.909114
+"Haiti",18,3.234971
+"Libya",18,2.241052
+"Korea, North",17,3.159824
+"Afghanistan",16,2.554536
+"Equatorial Guinea",16,2.997751
+"Sudan",16,2.743431
+"Venezuela",16,2.048858
+"Yemen",15,1.885994
+"Syria",13,1.921515
+"South Sudan",12,1.263942
+"Somalia",9,1.740826
